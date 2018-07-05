@@ -1,0 +1,1 @@
+# my-protoc-gen-validate
